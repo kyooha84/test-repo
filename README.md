@@ -1,4 +1,4 @@
-test-repo
+#test-repo
 Test repository for courses
 
-This file contains
+This file contains the overall class data
