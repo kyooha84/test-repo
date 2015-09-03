@@ -8,7 +8,7 @@ This file contains the overall class data science profile
 
 *[StackOverflow][www.stackoverflow.com]
 
-*[R-Project][www.r-project.org/]
+*[R-Project](www.r-project.org/)
 
 We will add *other* helpful files **later**
 
